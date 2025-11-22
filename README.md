@@ -4,7 +4,7 @@ Your goal is to predict the relative angle between a pipette and a tube from the
 
 ![picture](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pipette_tip_over_tube.jpg/128px-Pipette_tip_over_tube.jpg)
 
-<img width="128" height="179" alt="Image" src="https://github.com/user-attachments/assets/e1850198-46ae-4dd6-a801-d81c874fe70e" />
+![angle](./assets/angle.png)
 
 # Input:
 
